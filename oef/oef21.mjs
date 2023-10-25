@@ -5,3 +5,5 @@ console.log(`mijn ingredientenlijst: \n`);
 for(let i = 0; i < ingredients.length; i++){
     console.log(ingredients[i]);
 }
+
+process.exit();
