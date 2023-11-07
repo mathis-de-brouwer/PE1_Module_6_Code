@@ -5,8 +5,6 @@ import { constants } from 'node:buffer';
 import { parse } from 'node:path';
 const userInput = readline.createInterface({input, output});
 // Einde van boilerplate dat je even mag vergeten
-//h2
-
 
 let names = [];
 let name;
